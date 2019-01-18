@@ -1,4 +1,4 @@
-package HeadFirst_DesignPattern.ChepterOne.ObserverPattern;
+package HeadFirst_DesignPattern.ChepterOne.StrategyPattern;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;

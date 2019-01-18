@@ -1,4 +1,4 @@
-package HeadFirst_DesignPattern.ChepterOne.ObserverPattern;
+package HeadFirst_DesignPattern.ChepterOne.StrategyPattern;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {
